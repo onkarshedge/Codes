@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1417440072 source:/home/onkar/codeforces/pictA/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

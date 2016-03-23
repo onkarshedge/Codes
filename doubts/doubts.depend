@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1417500113 source:/home/onkar/codeforces/doubts/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1415520514 source:/home/onkar/codeforces/chefseg/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

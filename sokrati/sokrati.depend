@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1438617439 source:/home/onkar/codeforces/sokrati/main.cpp
+	<iostream>
+	<vector>
+

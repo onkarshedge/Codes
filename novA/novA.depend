@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1417515039 source:/home/onkar/codeforces/novA/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

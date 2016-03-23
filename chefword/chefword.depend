@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1416168210 source:/home/onkar/codeforces/chefword/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

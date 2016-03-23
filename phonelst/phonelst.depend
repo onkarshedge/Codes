@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1418480454 source:/home/onkar/codeforces/phonelst/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

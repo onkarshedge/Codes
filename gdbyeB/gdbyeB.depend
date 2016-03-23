@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1419958703 source:/home/onkar/codeforces/gdbyeB/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

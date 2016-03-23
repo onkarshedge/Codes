@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1417765733 source:/home/onkar/codeforces/icpc cc/LIGHTS/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1417713602 source:/home/onkar/codeforces/icpc cc/MSTRINGS/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

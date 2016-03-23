@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1440314338 source:/home/onkar/codeforces/clashrook/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<queue>
+	<string.h>
+

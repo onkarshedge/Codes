@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1439484883 source:/home/onkar/codeforces/316A/main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<string>
+	<map>
+

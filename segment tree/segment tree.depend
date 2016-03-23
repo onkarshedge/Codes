@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1416580389 source:/home/onkar/codeforces/segment tree/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

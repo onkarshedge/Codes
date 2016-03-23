@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1418465046 source:/home/onkar/codeforces/trie/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
